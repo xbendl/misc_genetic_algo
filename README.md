@@ -5,7 +5,7 @@ Implementation of modern AI (genetic algorithms) for common benchmarking task "t
 
 Installation:
 ==========
-Run ./install.sh 
+Run `install.sh`
 
 Run:
 ===
