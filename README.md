@@ -9,9 +9,9 @@ Run ./install.sh
 
 Run:
 ===
-Synopsis: ./tsp [paramFile]
-  paramFile Optional parameter specifying the path to configuration file.
+`Synopsis: ./tsp [paramFile]`
+paramFile Optional parameter specifying the path to configuration file.
 
 Configuration:
 ====================
-Default configuration is in ./configuration.txt. However, all parameter can be changed in GUI
+Default configuration is in `configuration.txt`. However, all parameter can be changed in GUI
